@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/via-hemp-gummies-canada/sitemap.xml
